@@ -1,3 +1,4 @@
+# Removed pywin32 since it's not compatible with Vercel
 absl-py==2.1.0
 anyio==4.4.0
 argon2-cffi==23.1.0
@@ -105,6 +106,7 @@ python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 python-json-logger==2.0.7
 pytz==2024.2
+# Removed pywin32
 pywinpty==2.0.13
 PyYAML==6.0.1
 pyzmq==26.0.3
